@@ -1,0 +1,35 @@
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color:#333;
+    text-align: center;
+    padding: 20px;
+}
+#characters-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:20px;
+   
+}
+.characters-card{
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    width: 200px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.characters-card img{
+    width: 100%;
+    height: auto;
+   
+}
+.characters-card h2{
+    margin: 10px 0;
+    font-size: 18px;
+}
+img{
+    width: 200px;
+}
