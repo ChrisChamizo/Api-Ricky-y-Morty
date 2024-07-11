@@ -14,8 +14,8 @@ Las características principales del proyecto incluyen:
 - **CSS**
 - **JavaScript**
 
+Para visualizar el proyecto terminado <a href="https://chrischamizo.github.io/Api-Ricky-y-Morty/"> Haga click aqui
 
-Asegúrate de tener un navegador web actualizado para visualizar el proyecto terminado.
 
 
 
